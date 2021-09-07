@@ -1,6 +1,7 @@
-//module requirements
+// requirements
 const inquirer = require("inquirer");
 const fs = require("fs");
+const Utils = require ("Utils")
 
 //inquirer to generate
 inquirer
